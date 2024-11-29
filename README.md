@@ -10,4 +10,6 @@
 
 `slack_test.py` - Testing file to see connection with the Slack API.
 
-`main.py` - The bot.
+`main.py` - A Slack [Bolt](https://api.slack.com/bolt) app that handles all events.
+
+`agent.py` - The agent to controll the Slack bot. 
