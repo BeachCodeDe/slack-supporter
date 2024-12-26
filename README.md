@@ -4,12 +4,6 @@
 
 # Slack Supporter
 
-> This README is only here to show the technical documentation on how to run the bot in production. To read about the project check out the [Notion](https://fringe-windflower-85e.notion.site/Slack-Supporter-14cb29a2f80a8027a41adc00162adda0?pvs=4)
+A simple support agent for Slack. Train it based on your OpenAPI docs.
 
-## File overview
-
-`slack_test.py` - Testing file to see connection with the Slack API.
-
-`main.py` - A Slack [Bolt](https://api.slack.com/bolt) app that handles all events.
-
-`agent.py` - The agent to controll the Slack bot. 
+> This project is currently paused, while we are working on client projects. Will update here in 2025.
